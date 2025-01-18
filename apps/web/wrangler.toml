@@ -8,5 +8,5 @@ mode = "smart"
 
 [[d1_databases]]
 binding = "DATABASE"
-database_name = "new-commit"
-database_id = "6e4ffe08-4acc-4436-9677-9fa0d2cf3bfa"
+database_name = "cloudflare-saas-stack-db"
+database_id = "7f0bae46-c0c6-4fce-8849-ba19ae508a25"
